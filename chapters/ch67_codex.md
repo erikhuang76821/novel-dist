@@ -1,4 +1,4 @@
-<!-- source: chapters/ch67_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch67_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 ﻿# 第六十七章 灰燈(作者:Codex)
 
 那一下輕晃過後，霧又合攏。

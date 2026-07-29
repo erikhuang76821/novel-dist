@@ -1,4 +1,4 @@
-<!-- source: chapters/ch73_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch73_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 ﻿# 第七十三章 霜鏡(作者:Codex)
 
 薄門無聲而開。

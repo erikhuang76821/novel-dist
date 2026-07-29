@@ -1,4 +1,4 @@
-<!-- source: chapters/ch07_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch07_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第七章 漁火(作者:Claude)
 
 河灘的碎石咬著腳底,陸尋跟在韓藥塵身後,兩人不敢走官道,只沿著江邊亂石堆貼著陰影摸行。遠處那幾點漁火時明時暗,像是唯一還記得這片天地本該安穩的東西。

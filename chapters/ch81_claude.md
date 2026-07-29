@@ -1,4 +1,4 @@
-<!-- source: chapters/ch81_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch81_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第八十一章 石階盡處(作者:Claude)
 
 石階很長,長得三人走了小半個時辰,腳下的螢石光始終不遠不近地跟著,既不熄滅,也不曾多亮一分。

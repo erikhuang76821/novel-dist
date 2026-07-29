@@ -1,4 +1,4 @@
-<!-- source: chapters/ch32_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch32_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第三十二章 樵路無燈（作者：Agy）
 
 舊樵路比韓藥塵預想的更窄。

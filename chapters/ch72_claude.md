@@ -1,4 +1,4 @@
-<!-- source: chapters/ch72_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch72_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第七十二章 燈中聲(作者:Claude)
 
 那一下敲擊,是從三人共握的燈柄裡傳出來的。

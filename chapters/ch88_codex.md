@@ -1,4 +1,4 @@
-<!-- source: chapters/ch88_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch88_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第八十八章 盤關夜影(作者:Codex)
 
 夜色壓下山脊時，南路岔口卻亮得刺眼。三道拒馬橫在官道中央，木牙新纏麻索，索間掛著細鈴與鐵鉤，火把一照，光影亂顫。鈴不曾大作，只偶爾被夜風帶出一聲輕響，竟與東邊枯木林那陣悶鈴遙遙相映，叫人無端生出寒意。

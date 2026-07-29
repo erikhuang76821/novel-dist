@@ -1,4 +1,4 @@
-<!-- source: chapters/ch69_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch69_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第六十九章 交影(作者:Claude)
 
 三道影子薄了半寸,卻沒有真的斷開。

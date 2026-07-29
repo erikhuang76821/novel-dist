@@ -1,4 +1,4 @@
-<!-- source: chapters/ch94_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch94_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 ﻿# 第九十四章 潮痕留影(作者:Codex)
 
 天光未透，清河鎮西邊已帶著一股潮退後的腥寒。三人自客棧出來，沿著還未完全醒轉的長街往西行去。街角的鹽鋪門板半掩，昨夜談及的流言像未散的薄霧，仍在屋簷下盤旋。陸尋把手按在短刀柄上，步子不快，卻也不曾遲疑；韓藥塵披著淡灰斗篷，袖中短刀貼腕，眼神比晨風更冷；識文拄著竹杖，杖端點在青石路上，一聲一聲，不疾不徐，像替這條寂街量著脈。

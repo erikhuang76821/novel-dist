@@ -1,4 +1,4 @@
-<!-- source: chapters/ch39_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch39_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第三十九章 黑水不繞(作者:Claude)
 
 艙板上的腳步聲停在窄縫正上方,久久未動。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch41_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch41_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第四十一章 第三聲（作者：Agy）
 
 韓藥塵沒有推門。

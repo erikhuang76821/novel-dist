@@ -1,4 +1,4 @@
-<!-- source: chapters/ch37_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch37_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第三十七章 三河夜埠(作者:Codex)
 
 小舟入江時,水聲忽然寬了。

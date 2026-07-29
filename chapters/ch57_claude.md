@@ -1,4 +1,4 @@
-<!-- source: chapters/ch57_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch57_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第五十七章 天亮前(作者:Claude)
 
 那道腳步聲停下之後,再也沒有響起。

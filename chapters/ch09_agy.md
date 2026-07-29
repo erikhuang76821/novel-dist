@@ -1,4 +1,4 @@
-<!-- source: chapters/ch09_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch09_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第九章 霧底燈行（作者：Agy）
 
 漁舟在黑水裡滑了大半個時辰，蘆葦早已退到身後，兩岸漸漸抬高，成了黑壓壓的土崖。

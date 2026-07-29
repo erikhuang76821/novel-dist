@@ -1,4 +1,4 @@
-<!-- source: AGENTS.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: AGENTS.md@0e08593da16d · entry: _derived/manifest.json -->
 # AGENTS.md — 本知識庫的讀取契約
 
 > 給 AI agent 與其使用者。本 repo 是《無極封》架空武俠小說的**唯讀知識庫發布版**（dist），由 CI 自 source 編譯。你無法也不應寫入本 repo。

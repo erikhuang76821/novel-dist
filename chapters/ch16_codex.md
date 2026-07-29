@@ -1,4 +1,4 @@
-<!-- source: chapters/ch16_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch16_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第十六章 問影石(作者:Codex)
 
 石階到了盡頭,青白光反倒靜了。

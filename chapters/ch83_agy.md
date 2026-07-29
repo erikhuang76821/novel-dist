@@ -1,4 +1,4 @@
-<!-- source: chapters/ch83_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch83_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第八十三章 關門候燈(作者:Agy)
 
 離開了殘存市集的範圍，地勢開始順著一條較為寬闊的石階持續向下延伸。與先前那些緊密依附在岩壁間的民居不同，這條石階兩側的建造工藝明顯精細了許多，每隔丈許便在岩壁上開鑿出一座蓮花形狀的石壁龕，龕中安放著小巧的石燈柱。

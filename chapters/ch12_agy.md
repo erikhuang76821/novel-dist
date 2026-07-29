@@ -1,4 +1,4 @@
-<!-- source: chapters/ch12_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch12_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第十二章 霧嶺聞鴉（作者：Agy）
 
 離了鐵鷂渡，江面便窄了。

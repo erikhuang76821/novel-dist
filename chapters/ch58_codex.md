@@ -1,4 +1,4 @@
-<!-- source: chapters/ch58_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch58_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 ﻿# 第五十八章 南路秤影（作者：Codex）
 
 三人離開眠燈鎮時，日頭已升過江霧。

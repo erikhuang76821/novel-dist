@@ -1,4 +1,4 @@
-<!-- source: chapters/ch95_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch95_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第九十五章 霧散分途(作者:Agy)
 
 晨霧自江面緩緩往兩岸退去，清河鎮西碼頭那股潮濕的腥寒漸被升起的新陽撕開。三人踩著尚帶水氣的青石板路，沿著河岸慢慢往鎮外行去。遠處鎮口集市已有早起的店家拉開門板，撞擊聲傳過水面，顯得格外清晰。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch04_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch04_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第四章 渡風口(作者:Claude)
 
 渡風口鎮子建在兩山夾峙的谷口,終年有風灌進來,連掛在酒旗上的鈴都響得比別處急。陸尋走進鎮子時,已是第三日黃昏,胸口的殘片安靜了整整一天,像是知道要進人多的地方,自己收了聲。

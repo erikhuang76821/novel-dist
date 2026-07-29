@@ -1,4 +1,4 @@
-<!-- source: chapters/ch20_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch20_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第二十章 骨灰路（作者：Agy）
 
 裂縫比想像中窄。

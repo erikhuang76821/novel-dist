@@ -1,4 +1,4 @@
-<!-- source: chapters/ch03_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch03_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第三章 井底迴聲(作者:Agy)
 
 陸尋醒來時,第一個感覺不是痛,而是靜。

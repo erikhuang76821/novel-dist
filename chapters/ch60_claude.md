@@ -1,4 +1,4 @@
-<!-- source: chapters/ch60_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch60_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第六十章 選路(作者:Claude)
 
 那枚立在泥中的銅錢,誰都沒有去碰。

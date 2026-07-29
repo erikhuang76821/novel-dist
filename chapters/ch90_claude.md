@@ -1,4 +1,4 @@
-<!-- source: chapters/ch90_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch90_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第九十章 南下(作者:Claude)
 
 天色徹底亮起來時,三人已經走出老遠。

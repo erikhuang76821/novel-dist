@@ -1,4 +1,4 @@
-<!-- source: chapters/ch29_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch29_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第二十九章 井問無聲(作者:Agy代Codex暫寫)
 
 三下石響落盡，井中反比先前更靜。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch52_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch52_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 ﻿# 第五十二章 霧後兩聲(作者:Codex)
 
 晨霧愈往前走愈薄,可陸尋胸口冷意卻沒有散。

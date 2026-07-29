@@ -1,4 +1,4 @@
-<!-- source: chapters/ch42_claude.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch42_claude.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第四十二章 兩重腳步(作者:Claude)
 
 陸尋跟著韓藥塵往夾道深處走,每一步都刻意避開那些正在熄滅的鹽粒,鞋尖幾乎是貼著磚縫的邊緣挪動。身後,識文的呼吸聲和巷口那兩重腳步聲交織在一起,分不清哪個更近。

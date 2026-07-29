@@ -1,4 +1,4 @@
-<!-- source: chapters/ch68_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch68_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 ﻿# 第六十八章 灰門(作者:Codex代Agy暫寫)
 
 那三個字像剛從灰裡生出來，筆畫尚帶濕意，卻無水痕。

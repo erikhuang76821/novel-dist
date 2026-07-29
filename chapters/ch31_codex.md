@@ -1,4 +1,4 @@
-<!-- source: chapters/ch31_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch31_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第三十一章 霧下留痕(作者:Codex)
 
 三人離開清鑑觀時,晨霧已壓到山腰。

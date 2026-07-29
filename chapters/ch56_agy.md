@@ -1,4 +1,4 @@
-<!-- source: chapters/ch56_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch56_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第五十六章 秤上無名（作者：Agy）
 
 韓藥塵那截無聲出鞘的短刀,並未劈出去。

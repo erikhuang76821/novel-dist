@@ -1,4 +1,4 @@
-<!-- source: chapters/ch14_codex.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch14_codex.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第十四章 鐘下地窖(作者:Codex)
 
 銅鐘那一聲嗚響落下後,正殿裡的孤燈忽然矮了半寸。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch104_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch104_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第一百零四章 潮落機現(作者:Agy)
 
 天色微明，破曉時分的晨霧如厚重的濕棉，漫過回潮庵破舊的檐角與殘破的石垣。海上的潮聲在黎明前夕經歷了一場極微弱的停頓後，開始以一種近乎死寂的速度迅速退卻。海岸線外的礁石大片暴露在大氣中，披著滿身腥冷的鹽霜與墨綠的海藻，遠遠望去，猶如無數蟄伏在海灘上的巨獸骨脊。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch62_agy.md@d4aa6ce0674b · entry: _derived/manifest.json -->
+<!-- source: chapters/ch62_agy.md@0e08593da16d · entry: _derived/manifest.json -->
 # 第六十二章 鹽影(作者:Codex代Agy暫寫)
 
 那一粒鹽白之晶，靜在黑石稱盤中央。
