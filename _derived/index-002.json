@@ -1,0 +1,661 @@
+[
+{
+"slug": "白葦渡",
+"name": "白葦渡",
+"aliases": [
+"白葦渡"
+],
+"node_type": "地點",
+"path": "地點/白葦渡.md",
+"summary": "一片伏在濕泥上的白葦灘,不像正經渡口。「有人清過——不是清腳印,是清聲」:葦底黏軟白蠟能「吃音」,吞下第三下敲聲再從別處吐出。清冷女密探在此留白蠟「此處已記」。三人於此覓舊船渡江。",
+"degree_by_family": {
+"entity_relation": 6,
+"chapter_appearance": 5
+}
+},
+{
+"slug": "眠燈鎮",
+"name": "眠燈鎮",
+"aliases": [
+"眠燈鎮"
+],
+"node_type": "地點",
+"path": "地點/眠燈鎮.md",
+"summary": "渡江後靠岸的小鎮,木樁掛兩盞將熄未熄的油燈「像睜著眼偏不肯醒」。鎮上也有「別敲第三下」的規矩。三人夜宿「三更」客棧後院(對一口封板廢井),遭薄底靴客夜間「量路」。",
+"degree_by_family": {
+"entity_relation": 11,
+"chapter_appearance": 6
+}
+},
+{
+"slug": "磨牙灘",
+"name": "磨牙灘",
+"aliases": [
+"磨牙灘"
+],
+"node_type": "地點",
+"path": "地點/磨牙灘.md",
+"summary": "一行棄舟登岸處,灘上滿佈犬齒狀嶙峋碎石。過此即棄舟走旱路,經霧嶺往清鑑觀。",
+"degree_by_family": {
+"entity_relation": 4,
+"chapter_appearance": 3
+}
+},
+{
+"slug": "聽潮礬場",
+"name": "聽潮礬場",
+"aliases": [
+"聽潮礬場",
+"回秤磯"
+],
+"node_type": "地點",
+"path": "地點/聽潮礬場.md",
+"summary": "江邊荒廢煎礬舊地,退潮方顯石磴。舊量貨棚懸「黑燈」(墨青色、罩黑絹桐油紙),樑下大木秤於潮退某刻自行「過秤」。三人夜探撞見一名黑袍人操秤,奪得一具封鉛鐵桶。是秤水路暗網向南延伸的一處「校秤」據點。",
+"degree_by_family": {
+"entity_relation": 17,
+"chapter_appearance": 8
+}
+},
+{
+"slug": "落汐村",
+"name": "落汐村",
+"aliases": [
+"落汐",
+"落汐漁村"
+],
+"node_type": "地點",
+"path": "地點/落汐村.md",
+"summary": "回潮庵以南約百里的海邊漁村，屋頂壓黑石、漁舟拖岸；村中封家世代修補船具、熟悉海岸潮路，民風對問潮之事格外避諱。",
+"degree_by_family": {
+"entity_relation": 17,
+"chapter_appearance": 3
+}
+},
+{
+"slug": "裂谷",
+"name": "裂谷",
+"aliases": [
+"邊荒裂谷",
+"裂谷"
+],
+"node_type": "地點",
+"path": "地點/裂谷.md",
+"summary": "邊荒某處峽谷,底部風帶鐵鏽味。岩壁上有大量太一刻紋,深處連通黑齒暗河與回聲井。故事的起點。",
+"degree_by_family": {
+"entity_relation": 26,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "觀後裂道",
+"name": "觀後裂道",
+"aliases": [
+"舊裂道",
+"骨灰路",
+"觀後裂道",
+"觀後山壁"
+],
+"node_type": "地點",
+"path": "地點/觀後裂道.md",
+"summary": "自清鑑觀地窖天頂裂縫通往觀後山壁的舊裂道,俗稱「骨灰路」。石壁刮痕以骨頭而非鑿子所刻、沿途鋪骨灰。三年前麻衣人來去之路;盡頭是斷崖石棚。",
+"degree_by_family": {
+"entity_relation": 24,
+"chapter_appearance": 7
+}
+},
+{
+"slug": "邊荒",
+"name": "邊荒",
+"aliases": [
+"邊荒",
+"絕地",
+"化外之地"
+],
+"node_type": "地點",
+"path": "地點/邊荒.md",
+"summary": "官府勢力薄弱的化外之地。上古遺蹟、異獸、邪祟多出沒於此,是拾遺人、盜墓者、散修的舞台,也是太一斷簡殘篇散落之處。",
+"degree_by_family": {
+"entity_relation": 7,
+"chapter_appearance": 0
+}
+},
+{
+"slug": "鐵鷂渡",
+"name": "鐵鷂渡",
+"aliases": [
+"鐵鷂渡"
+],
+"node_type": "地點",
+"path": "地點/鐵鷂渡.md",
+"summary": "鐵鷂子把守的窄渠霧段,位於舊漕渠北上近路。以黑旗鐵鷂為號,設快船、短弩盤查過往船隻。",
+"degree_by_family": {
+"entity_relation": 11,
+"chapter_appearance": 3
+}
+},
+{
+"slug": "霧嶺",
+"name": "霧嶺",
+"aliases": [
+"霧嶺"
+],
+"node_type": "地點",
+"path": "地點/霧嶺.md",
+"summary": "清鑑觀前必經之地,終年濃霧、近年鴉群異常多、疑有瘴氣。陸尋殘印在此再度自醒,遠處清鑑觀方向現冷冽青白光。",
+"degree_by_family": {
+"entity_relation": 16,
+"chapter_appearance": 3
+}
+},
+{
+"slug": "黑齒暗河",
+"name": "黑齒暗河",
+"aliases": [
+"黑齒暗河"
+],
+"node_type": "地點",
+"path": "地點/黑齒暗河.md",
+"summary": "裂谷深處的地下急流,河床遍布犬牙狀黑石,部分石面藏可被殘片牽動的青色道紋。水底有鐵鏽舊鏈通往石門,門後即回聲井。",
+"degree_by_family": {
+"entity_relation": 12,
+"chapter_appearance": 3
+}
+},
+{
+"slug": "三線印記",
+"name": "三線印記",
+"aliases": [
+"三線印記",
+"缺一筆",
+"缺中心一筆",
+"封鉛鐵桶",
+"恆溫印記"
+],
+"node_type": "設定",
+"path": "設定/三線印記.md",
+"summary": "反覆出現的印記:三道向內收攏的細線,原該圍著一個圓心,卻**獨缺中心那一筆**。見於聽潮礬場竹籌、鐵桶蓋、以及桶內一枚「恆溫金屬印」。陸尋由此悟:一路所見或都只是「某個更大整體的殘缺片段」,缺的那一筆才是真正答案。",
+"degree_by_family": {
+"entity_relation": 40,
+"chapter_appearance": 19
+}
+},
+{
+"slug": "候燈者",
+"name": "候燈者",
+"aliases": [
+"候燈者",
+"候燈之責",
+"三燈之約"
+],
+"node_type": "設定",
+"path": "設定/候燈者.md",
+"summary": "封閉地底石城「南口」時留下的值守者與其章程。封城時「退者七十二,留燈者三」;三名候燈者分司望山、守渠、記事,以燈為號,「三燈皆滅,南口方可再啟」。是一套久遠前定下、只等某時機解封的規矩。",
+"degree_by_family": {
+"entity_relation": 9,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "六印",
+"name": "六印",
+"aliases": [
+"六印",
+"六枚殘印",
+"殘印"
+],
+"node_type": "設定",
+"path": "設定/六印.md",
+"summary": "對應回聲井井沿六個凹槽的六枚太一薄片／殘印,散落各地(井壁輿圖標六地)。實為六道「門」;六印全醒則回聲井開。陸尋胸口嵌著其中一枚。",
+"degree_by_family": {
+"entity_relation": 55,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "六印共振",
+"name": "六印共振",
+"aliases": [
+"六印共振"
+],
+"node_type": "設定",
+"path": "設定/六印共振.md",
+"summary": "當陸尋胸口殘片靠近太一遺構時,會引動刻紋發青光,且與遠處其他殘印同步明滅——暗示六印彼此感應、可互相定位。",
+"degree_by_family": {
+"entity_relation": 11,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "六門",
+"name": "六門",
+"aliases": [
+"六門",
+"六道門"
+],
+"node_type": "設定",
+"path": "設定/六門.md",
+"summary": "六印的真正性質。並非單純封印,而是六道「門」:門合則彼端之物沉睡,門開一分則彼端之物可借力量滲入人間。**絕不可六門同開。**由無名瘋者窮盡半生所悟、臨終傳予韓藥塵。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "古石柱",
+"name": "古石柱",
+"aliases": [
+"古石柱"
+],
+"node_type": "設定",
+"path": "設定/古石柱.md",
+"summary": "乾涸舊河道裂縫中半掩的石柱,柱身紋路比問影石更古老、更粗糲,「像年輪一樣是活出來的,不是刻的」。陸尋殘印本能排斥、不願靠近。不像太一遺構「等人答」,倒像「**不准人問**」。",
+"degree_by_family": {
+"entity_relation": 10,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "問影石",
+"name": "問影石",
+"aliases": [
+"問影石"
+],
+"node_type": "設定",
+"path": "設定/問影石.md",
+"summary": "清鑑觀地窖石階盡頭的巨石(高逾一人、寬近三丈),鑿平卻非鏡非碑、無一字。表面浮暗影,受陸尋殘片牽動現出**六道細縫(如六枚閉眼)**,對應六印／六門。中央黑痕會浮出未成形面孔、低語「少一印」,誘人「以身作答」。",
+"degree_by_family": {
+"entity_relation": 48,
+"chapter_appearance": 14
+}
+},
+{
+"slug": "太一遺構",
+"name": "太一遺構",
+"aliases": [
+"太一遺構",
+"太一刻紋",
+"遺構",
+"殘片",
+"薄片"
+],
+"node_type": "設定",
+"path": "設定/太一遺構.md",
+"summary": "太一文明毀滅後留下的建築與器物殘存。刻滿線條精準、泛青光的「太一刻紋」,是道紋之源。既存於邊荒絕地,也藏於中原腹地小鎮地底。",
+"degree_by_family": {
+"entity_relation": 58,
+"chapter_appearance": 6
+}
+},
+{
+"slug": "察字官牌",
+"name": "察字官牌",
+"aliases": [
+"察字官牌",
+"官牌"
+],
+"node_type": "設定",
+"path": "設定/察字官牌.md",
+"summary": "陸尋於清鑑觀主殿供桌下拾得的巴掌大銅牌:雲雷紋中藏一「察」字,背面原字被刻意磨去大半。官牌樣式卻非尋常巡檢腰牌——指向熾朝京城一支「不歸尋常衙門管、專辦見不得光差事」的隱秘勢力。",
+"degree_by_family": {
+"entity_relation": 16,
+"chapter_appearance": 5
+}
+},
+{
+"slug": "怪鳥徽記",
+"name": "怪鳥徽記",
+"aliases": [
+"怪鳥徽記",
+"銜環怪鳥",
+"先行者"
+],
+"node_type": "設定",
+"path": "設定/怪鳥徽記.md",
+"summary": "一隻雙翼張開、嘴銜圓環、羽翼帶殘缺鋸齒紋的怪鳥徽記——「先行者」（一批搶在陸尋三人之前循潮候線索行動的神秘勢力）的識別標記。韓藥塵判明此徽記既非聽潮礬場黑袍人標記，亦非江湖已知大派手筆。",
+"degree_by_family": {
+"entity_relation": 22,
+"chapter_appearance": 8
+}
+},
+{
+"slug": "殘印自醒",
+"name": "殘印自醒",
+"aliases": [
+"殘印自醒",
+"自醒"
+],
+"node_type": "設定",
+"path": "設定/殘印自醒.md",
+"summary": "陸尋胸口殘片在無外力牽動下自行發光甦醒的現象。與韓藥塵疤痕紋路蠕動呼應,暗示殘印正由內而外甦醒。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 19
+}
+},
+{
+"slug": "殘牒",
+"name": "殘牒",
+"aliases": [
+"殘牒",
+"回潮庵殘牒",
+"異人殘牒"
+],
+"node_type": "設定",
+"path": "設定/殘牒.md",
+"summary": "原存於回潮庵石庫、幾十年前一位雲遊異人所留、囑「非有緣者不得妄動」的一批舊牒，約七八頁。上繪「三弧環一點、內側延伸細枝」的計數圖譜，疑為三線印記「完整」時的原貌、解殘印的鑰匙。第一百零二章被先行者搶先取走。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 7
+}
+},
+{
+"slug": "潮候簡記",
+"name": "潮候簡記",
+"aliases": [
+"潮候簡記",
+"潮候記號",
+"枝開九轉"
+],
+"node_type": "設定",
+"path": "設定/潮候簡記.md",
+"summary": "沿海寺觀遇礁洞、伏井、暗渠時用以記潮的簡記符號系統：三弧環一點、弧內延伸細枝。留下殘牒者卻把回湧、滯退、暗翻都記入，像在記某種「只在特定潮候才露面的路」。識文於第一百零三章點破。",
+"degree_by_family": {
+"entity_relation": 28,
+"chapter_appearance": 7
+}
+},
+{
+"slug": "潮心",
+"name": "潮心",
+"aliases": [
+"潮心",
+"青銅潮心",
+"母樞"
+],
+"node_type": "設定",
+"path": "設定/潮心.md",
+"summary": "原嵌於九轉石穴中央圓盤的九葉青銅樞紐，被封家稱為「母樞」或「潮心」，為解開海岸潮脈與水門的核心關鍵器物。",
+"degree_by_family": {
+"entity_relation": 4,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "無極封",
+"name": "無極封",
+"aliases": [
+"無極封"
+],
+"node_type": "設定",
+"path": "設定/無極封.md",
+"summary": "本書暫名。「絕道之戰」尾聲,緘道派殘存者以己身道行布下的封印,將太一遺構核心(而非全部殘篇)徹底封印,自身隨之沉眠或隱遁,成為隱世守印者。封印至今絕密完好,但已有人試圖揭開。",
+"degree_by_family": {
+"entity_relation": 13,
+"chapter_appearance": 0
+}
+},
+{
+"slug": "玄鈴",
+"name": "玄鈴",
+"aliases": [
+"銅鈴",
+"玄鈴"
+],
+"node_type": "設定",
+"path": "設定/玄鈴.md",
+"summary": "玄鈴使手持的銅鈴,鈴面刻陌生紋路。鈴聲能牽動殘片、影響周遭,亦可供持鈴者遠距窺探。",
+"degree_by_family": {
+"entity_relation": 14,
+"chapter_appearance": 3
+}
+},
+{
+"slug": "真氣內功",
+"name": "真氣內功",
+"aliases": [
+"真氣",
+"內功",
+"真氣內功"
+],
+"node_type": "設定",
+"path": "設定/真氣內功.md",
+"summary": "力量體系的表層。江湖尋常修煉法門——吐納周天、經脈真氣。絕大多數武人一生所學止於此,對應江湖「一流高手」等級的天花板。",
+"degree_by_family": {
+"entity_relation": 8,
+"chapter_appearance": 0
+}
+},
+{
+"slug": "眠青藥",
+"name": "眠青藥",
+"aliases": [
+"眠青藥"
+],
+"node_type": "設定",
+"path": "設定/眠青藥.md",
+"summary": "韓藥塵以銀針點施的清苦寒性藥液,可暫時壓住陸尋胸口殘片約一夜,使其不再往骨頭裡鑽,但不能根除或取下。",
+"degree_by_family": {
+"entity_relation": 14,
+"chapter_appearance": 6
+}
+},
+{
+"slug": "眼形記號",
+"name": "眼形記號",
+"aliases": [
+"眼形記號",
+"圓中一點",
+"眼形"
+],
+"node_type": "設定",
+"path": "設定/眼形記號.md",
+"summary": "反覆出現的符號:一個圓圈、圈心一點,「像一隻眼」。旁常伴一長一短兩道不成字的刻痕(一指水、一指岸)。與漕渠溺者遺言「**別信眼睛**」直接呼應——凡標著此記號、要人「先看」的東西,都未必可信。",
+"degree_by_family": {
+"entity_relation": 24,
+"chapter_appearance": 11
+}
+},
+{
+"slug": "短刀",
+"name": "短刀",
+"aliases": [
+"烏沉短刀",
+"短刀"
+],
+"node_type": "設定",
+"path": "設定/短刀.md",
+"summary": "韓藥塵隨身的烏沉短刀,刃長不過四寸卻磨得雪亮,出鞘無聲。武學來歷未定。",
+"degree_by_family": {
+"entity_relation": 1,
+"chapter_appearance": 1
+}
+},
+{
+"slug": "秤",
+"name": "秤",
+"aliases": [
+"秤",
+"秤痕",
+"量",
+"秤局"
+],
+"node_type": "設定",
+"path": "設定/秤.md",
+"summary": "疑為「第三股勢力」的手法:不「問」、只「量」。反覆出現的秤記號(一橫、兩端各一向下短折,如秤桿掛物)、灶灰鹽屑、壓平的泥面、成對銅錢、白蠟「此處已記」。它秤的不是輕重,而是「**選擇本身**」——量誰經過、誰觸動了什麼、時候到了沒有。",
+"degree_by_family": {
+"entity_relation": 43,
+"chapter_appearance": 19
+}
+},
+{
+"slug": "第七結",
+"name": "第七結",
+"aliases": [
+"第七結",
+"第七活結",
+"補網活結"
+],
+"node_type": "設定",
+"path": "設定/第七結.md",
+"summary": "落汐村沿岸補網法：每列前六結收緊，第七結僅繞半圈留活眼；拖網纏礁或繫索受巨力時，活結先行滑脫卸力，以棄網／棄繩保住船人，形異理同於潮候簡記「三列七記、第七留門」。",
+"degree_by_family": {
+"entity_relation": 14,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "第七縫",
+"name": "第七縫",
+"aliases": [
+"第七縫",
+"第七道縫"
+],
+"node_type": "設定",
+"path": "設定/第七縫.md",
+"summary": "問影石最底、最不起眼處那道「原本不該存在」的縫。光既非暗金亦非朱色,而是「發灰的白,死灰裡埋著未冷的火」。會學鈴聲自行「應聲」向外傳送,是玄鈴使追蹤的新破口。灰斗篷守印者似早知其存在。",
+"degree_by_family": {
+"entity_relation": 22,
+"chapter_appearance": 6
+}
+},
+{
+"slug": "聽篙船",
+"name": "聽篙船",
+"aliases": [
+"聽篙船",
+"黑竹篙船",
+"無人船"
+],
+"node_type": "設定",
+"path": "設定/聽篙船.md",
+"summary": "三河埠廢碼頭外現身的無人窄船:兩支黑竹篙無人握持卻自行一前一後入水,節拍分毫不差。逆流而來、順水而去,以篙聲引動淤泥掌印、循水底鹽道把「掌印回聲」一路送出。",
+"degree_by_family": {
+"entity_relation": 10,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "腕上黑線",
+"name": "腕上黑線",
+"aliases": [
+"腕上黑線",
+"三圈黑線"
+],
+"node_type": "設定",
+"path": "設定/腕上黑線.md",
+"summary": "灰斗篷守印者左腕纏繞的三圈黑線。施展道紋能力(凝水、觸碰薄片)時會沿腕骨向小臂蔓延、加深、隱約搏動,似為施力的代價／侵蝕性質。",
+"degree_by_family": {
+"entity_relation": 8,
+"chapter_appearance": 3
+}
+},
+{
+"slug": "識文短香",
+"name": "識文短香",
+"aliases": [
+"識文短香",
+"短香"
+],
+"node_type": "設定",
+"path": "設定/識文短香.md",
+"summary": "識文三年前託老秦收存的道觀短香。點燃後香煙碰霧即把霧往外推,能滯住青鱗燈。識文稱其「不擋人,只擋不請自來的東西」。其燃後氣味(乾燥焦苦、如香灰久曬)成為辨識骨灰路的線索。",
+"degree_by_family": {
+"entity_relation": 17,
+"chapter_appearance": 6
+}
+},
+{
+"slug": "識文竹杖",
+"name": "識文竹杖",
+"aliases": [
+"識文竹杖",
+"竹杖"
+],
+"node_type": "設定",
+"path": "設定/識文竹杖.md",
+"summary": "識文師父留下的舊物,三十年只當尋常拐杖、從未裂過。於南路霧局忽然裂縫滲出**白灰**、且能替三人「指路」(灰線成弧指向對岸燈);中空處有回響、裂縫深處露一點烏色「像灰燼底下未冷的骨」。",
+"degree_by_family": {
+"entity_relation": 4,
+"chapter_appearance": 7
+}
+},
+{
+"slug": "道紋",
+"name": "道紋",
+"aliases": [
+"道紋",
+"殘紋",
+"斷簡"
+],
+"node_type": "設定",
+"path": "設定/道紋.md",
+"summary": "力量體系的深層。非後天內力自然修得,而是解讀太一上古文明「殘紋／斷簡」而獲得的異能,效果遠超常理(禦劍飛行、掌心撕裂空間)。習得者稀少且多付代價——走火入魔、心智異化,或被隱世守印者追殺。",
+"degree_by_family": {
+"entity_relation": 42,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "青鱗燈",
+"name": "青鱗燈",
+"aliases": [
+"青鱗燈"
+],
+"node_type": "設定",
+"path": "設定/青鱗燈.md",
+"summary": "玄鈴使投入水中追蹤「醒著的印」的薄鱗狀器物,受鈴聲牽引。可被油紙假燈短暫誘導誤判。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 10
+}
+},
+{
+"slug": "韓藥塵舊疤",
+"name": "韓藥塵舊疤",
+"aliases": [
+"韓藥塵舊疤",
+"舊疤",
+"暗血"
+],
+"node_type": "設定",
+"path": "設定/韓藥塵舊疤.md",
+"summary": "韓藥塵小臂一道非刀傷、似灼燒後癒合的舊疤。青光下浮現細如蟲篆的紋路並會蠕動;可取少量暗黑色血,用以壓制／偽裝殘印感應。來歷與代價未定。",
+"degree_by_family": {
+"entity_relation": 25,
+"chapter_appearance": 12
+}
+},
+{
+"slug": "骨灰",
+"name": "骨灰",
+"aliases": [
+"骨灰",
+"灰屑",
+"灰白粉末"
+],
+"node_type": "設定",
+"path": "設定/骨灰.md",
+"summary": "一種微微發亮的灰白粉末。灰斗篷守印者掌按問影石「封聲」時,掌下磨出同樣灰屑;觀後裂道沿途鋪滿——識文確認「不是香灰,是骨灰」。與第七縫「發灰的白」光同色。",
+"degree_by_family": {
+"entity_relation": 22,
+"chapter_appearance": 8
+}
+},
+{
+"slug": "鹽聽",
+"name": "鹽聽",
+"aliases": [
+"鹽聽",
+"鹽井耳室",
+"江心耳",
+"水底鹽道"
+],
+"node_type": "設定",
+"path": "設定/鹽聽.md",
+"summary": "三河埠沿江一整套「以鹽聽聲、借井分路」的傳聲機關。鹽井耳室、江心耳、水底鹽道彼此相連——上游敲一下,下游遲早聽見。用以把「追兵、問聲、印息」分開,或叫後來者聽錯。",
+"degree_by_family": {
+"entity_relation": 34,
+"chapter_appearance": 13
+}
+}
+]

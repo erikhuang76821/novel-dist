@@ -1,0 +1,49 @@
+{
+ "manifest_schema_version": 1,
+ "release_id": "r-d4aa6ce0674b",
+ "source_commit": "d4aa6ce0674b985afc182b5e4aa2bfcc0de96972",
+ "built_with": {
+  "tool": "build_dist.py",
+  "config_schema": 1
+ },
+ "coverage": {
+  "latest_raw_chapter": 107,
+  "gaps": [],
+  "summary_through": 107,
+  "timeline_through": 107,
+  "graph_through": 107
+ },
+ "payload_root_sha256": "f4768ad92b83f1c3fa1d0e918239ce84e417129bea9c828d4f9e1ffd1c9603da",
+ "artifacts": {
+  "index_shards": [
+   {
+    "path": "_derived/index-001.json",
+    "sha256": "ef1a3d9a8dd54dc29c584211a9f4b03ceb30a197bf472369b234d0d8da4a82c2",
+    "bytes": 23606,
+    "first_slug": "00-核心不變式",
+    "last_slug": "照影灘"
+   },
+   {
+    "path": "_derived/index-002.json",
+    "sha256": "8e44a24948326b7822c936407f7421bd25e4660b2d088a30875fff71fde9325a",
+    "bytes": 19179,
+    "first_slug": "白葦渡",
+    "last_slug": "鹽聽"
+   }
+  ],
+  "chapters": {
+   "path": "_derived/chapters.json",
+   "sha256": "ff741099cfd7c0d07cc5df12f45d95f577875cc8dec665e170641a4d1d9e2c01",
+   "bytes": 34842
+  },
+  "threads": {
+   "path": "_derived/threads.md",
+   "sha256": "cad8fa4dabff04d12ef4cc90e16059fe5a99c48396113452cb0fd235d4b1e2ed",
+   "bytes": 20182
+  }
+ },
+ "qa": {
+  "status": "not_run"
+ },
+ "entry_hint": "讀者入口:本檔。先看 coverage 與 artifacts,再按 index shards 定位實體;章節時序看 chapters.json;開放伏筆看 threads.md。"
+}
