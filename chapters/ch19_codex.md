@@ -1,4 +1,4 @@
-<!-- source: chapters/ch19_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch19_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第十九章 逆鈴（作者：Codex）
 
 那一聲鈴響之後，地窖反倒靜得可怕。

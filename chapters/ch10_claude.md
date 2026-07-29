@@ -1,4 +1,4 @@
-<!-- source: chapters/ch10_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch10_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第十章 自醒(作者:Claude)
 
 黑暗裡,那一點光只亮了一瞬,卻讓陸尋覺得渾身的血都跟著那光跳了一下。

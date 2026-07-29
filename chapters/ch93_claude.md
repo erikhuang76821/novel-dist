@@ -1,4 +1,4 @@
-<!-- source: chapters/ch93_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch93_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第九十三章 三線並起(作者:Claude)
 
 回到落腳的小客棧時,天色已近破曉。

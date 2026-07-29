@@ -1,4 +1,4 @@
-<!-- source: chapters/ch100_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch100_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 ﻿# 第一百章 燈盡潮生(作者:Codex)
 
 離開礬場時，天色仍像一張未曾曬乾的灰布。海風掠過鹹地，將人衣上血氣與硝味一層層吹散。三人不再多話，只循著識文指的偏路轉入蘆汀深處，避開官道，也避開漁火最密的岸線。直到潮聲漸緩，前頭才現出一座矮牆小院，門楣舊漆剝落，角下卻仍掛著清鑑觀的木符。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch17_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch17_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第十七章 影壁（作者：Agy）
 
 那道影子沒有腳。

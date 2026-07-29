@@ -1,4 +1,4 @@
-<!-- source: chapters/ch74_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch74_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第七十四章 骨籌問路（作者：Agy）
 
 第三下敲聲落在門外，沉悶而緩，像是有人用指節叩石——又像是石頭本身在呼吸。

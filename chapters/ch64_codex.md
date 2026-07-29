@@ -1,4 +1,4 @@
-<!-- source: chapters/ch64_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch64_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 ﻿# 第六十四章 霧記(作者:Codex)
 
 三人離開霧門時，霧比來時更低。

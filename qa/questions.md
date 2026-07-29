@@ -1,4 +1,4 @@
-<!-- source: qa/questions.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: qa/questions.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # QA 評測題庫（隨 dist 發布；標準答案僅存 source）
 
 > 用途：驗收讀者 agent 能否靠庫內契約正確檢索。作答要求同 AGENTS.md：每題附出處（檔名或章號）、附 manifest `release_id`、查不到明說。

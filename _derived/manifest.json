@@ -1,26 +1,39 @@
 {
- "manifest_schema_version": 1,
- "release_id": "r-6280465c834f",
- "source_commit": "6280465c834f26285d90a25be4c2e41e89437c07",
+ "manifest_schema_version": 2,
+ "release_id": "r-f2b6883d30c7",
+ "source_commit": "f2b6883d30c72a4e27d1dfffe0de8bf3da2141ab",
  "built_with": {
   "tool": "build_dist.py",
   "config_schema": 1
  },
  "coverage": {
-  "latest_raw_chapter": 107,
-  "gaps": [],
-  "summary_through": 107,
+  "raw": {
+   "max": 107,
+   "contiguous_through": 107,
+   "gaps": []
+  },
+  "notes": {
+   "max": 107,
+   "contiguous_through": 107,
+   "gaps": []
+  },
+  "derived_through": 107,
   "timeline_through": 107,
   "graph_through": 107
  },
- "payload_root_sha256": "ab149fb5b6947b58ab991f1d736e5c1b7349aa31dd440725a7966d7628e0cc22",
+ "payload_root_sha256": "151dac0a94fec0c4d296ca532e8cdda21e7691978a0dd5658ba0c9408d1214e3",
+ "canonicalization": {
+  "unicode": "NFC(全部檔名/連結/JSON key)",
+  "slug": "NFC 實體名去除 \\\\/:*?\"<>|#[] 與空白;碰撞加 -N 序號;不用拼音",
+  "index_sort": "codepoint(slug) — 分片邊界按 slug 的 Unicode 碼位序,可直接字串比較路由",
+  "payload_hash": "sha256( Σ relpath + '\\\\0' + sha256hex(bytes) + '\\\\n' ),relpath 為 UTF-8 posix 字串排序;排除 .git/** 與 _derived/manifest.json"
+ },
  "artifacts": {
-  "index_sort": "codepoint(node_type, slug) — 分片邊界按 Unicode 碼位序,非筆畫/拼音;不確定落點時兩片都小,可全取再搜",
   "index_shards": [
    {
     "path": "_derived/index-001.json",
-    "sha256": "7ae5cd760197a1359ad56f0d8df4d3e4af753c0aca8ffacec9bac9f222e9247c",
-    "bytes": 23698,
+    "sha256": "c9424caa6f7ffbf384798d7fd16dfd8d34f2c5c3e41d8e8127a6a570e4c17da5",
+    "bytes": 23669,
     "first_slug": "00-核心不變式",
     "last_slug": "灰斗篷守印者"
    },
@@ -44,7 +57,9 @@
   }
  },
  "qa": {
-  "status": "not_run"
+  "suite_version": null,
+  "tested_payload_sha256": null,
+  "results": null
  },
  "entry_hint": "讀者入口:本檔。先看 coverage 與 artifacts,再按 index shards 定位實體;章節時序看 chapters.json;開放伏筆看 threads.md。"
 }

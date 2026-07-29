@@ -1,4 +1,4 @@
-<!-- source: chapters/ch08_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch08_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第八章 蘆灣青鱗(作者:Codex)
 
 那點青芒滅後,江面反倒更黑了。

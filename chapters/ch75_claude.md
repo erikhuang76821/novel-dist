@@ -1,4 +1,4 @@
-<!-- source: chapters/ch75_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch75_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第七十五章 未落之聲(作者:Claude)
 
 那腳步聲停在離他們三步之外的地方,不再靠近,也不曾退開。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch46_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch46_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第四十六章 聽篙不泊（作者：Codex）
 
 那划水聲越近，越不像人在趕路。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch70_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch70_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 ﻿# 第七十章 窄門(作者:Codex)
 
 那一線黑，比甬道裡的黑更沉。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch13_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch13_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第十三章 灰瓦(作者:Claude)
 
 天黑前,三人終於望見了清鑑觀的山門。

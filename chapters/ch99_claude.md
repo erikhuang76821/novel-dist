@@ -1,4 +1,4 @@
-<!-- source: chapters/ch99_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch99_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第九十九章 鐵桶(作者:Claude)
 
 天色徹底亮起時,三人已離聽潮礬場老遠。

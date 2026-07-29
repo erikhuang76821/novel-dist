@@ -1,4 +1,4 @@
-<!-- source: chapters/ch80_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch80_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第八十章 破局一問(作者:Agy)
 
 機簧轉動的沙啞餘音在大殿樑柱間低低迴盪，石案上那方窄匣已完全彈開。匣中靜靜躺著一張摺疊整齊的黑紙，以及三枚印面朝下、質感各異的舊印。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch84_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch84_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第八十四章 候燈者(作者:Claude)
 
 石縫窄得幾乎貼著肩背,識文提燈在前,燈影一路顛簸,映得三人的影子在狹壁間忽長忽短。腳踏淺坑鑿得極用心,深淺恰好容納一足,連手抓的指槽位置都算得精準——這條密道顯然不是倉促逃命時臨時鑿出來的,而是早有預備。

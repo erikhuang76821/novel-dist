@@ -1,4 +1,4 @@
-<!-- source: chapters/ch38_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch38_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 ﻿# 第三十八章 鹽巷舊籌(作者:Agy代Codex暫寫)
 
 三盞燈一滅,三河埠反倒更亮了。

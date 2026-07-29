@@ -1,4 +1,4 @@
-<!-- source: chapters/ch25_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch25_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第二十五章 舊卷留名(作者:Codex)
 
 清鑑觀藏經閣在前殿東側,半邊簷角焦黑,木梁未塌。識文推門時,門軸發出一聲乾啞長響。

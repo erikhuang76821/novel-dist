@@ -1,4 +1,4 @@
-<!-- source: chapters/ch23_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch23_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第二十三章 灶底寒聲（作者：Agy）
 
 兩道腳步各停一方，霧將柴房裹得密不透風。

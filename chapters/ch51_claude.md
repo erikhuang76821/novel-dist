@@ -1,4 +1,4 @@
-<!-- source: chapters/ch51_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch51_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第五十一章 秤(作者:Claude)
 
 沿江往下游走了將近一個時辰,韓藥塵忽然停下腳步,望著前方一片開闊的灘地。

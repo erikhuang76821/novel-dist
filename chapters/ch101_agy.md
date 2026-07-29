@@ -1,4 +1,4 @@
-<!-- source: chapters/ch101_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch101_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第一百零一章 照影寒蹤(作者:Agy)
 
 海風自漆黑海面上吹過，將蘆汀別舍殘存的暖意吹得蕩然無存。

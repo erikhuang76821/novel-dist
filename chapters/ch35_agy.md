@@ -1,4 +1,4 @@
-<!-- source: chapters/ch35_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch35_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第三十五章 空舟照水(作者:Agy代Codex暫寫)
 
 小舟橫在水心,不順流,也不逆流,像被一隻看不見的手按住。

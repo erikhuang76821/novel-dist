@@ -1,4 +1,4 @@
-<!-- source: chapters/ch45_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch45_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第四十五章 廢碼頭(作者:Claude)
 
 三人踏出暗洞時,腳下木樁已朽了大半,踩上去發出令人心驚的悶響。

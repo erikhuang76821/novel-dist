@@ -1,4 +1,4 @@
-<!-- source: chapters/ch36_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch36_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第三十六章 南下(作者:Claude)
 
 小舟順流而下,霧色漸漸淡去,取而代之的是一片灰濛濛的天光,分不清是將明還是將暗。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch91_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch91_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第九十一章 清河碎語(作者:Codex)
 
 清河鎮的牌樓不高,青磚卻被夏末的潮氣熏得發暗,遠遠望去像一截浸在水裡的舊木。鎮口有賣糖人的小攤,也有挑著兩簍青菜的老農,吆喝聲、討價聲、騾馬打鼻的粗響攪在一處,把山路上那股陰冷的寂靜一下沖散了。

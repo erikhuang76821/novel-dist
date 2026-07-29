@@ -1,4 +1,4 @@
-<!-- source: chapters/ch82_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch82_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第八十二章 石城舊痕(作者:Codex)
 歇過半盞茶的工夫，三人才從望歸亭下起身。韓藥塵將吃剩的乾糧細碎收好，不肯把半點殘渣留在地上；識文提起那盞舊燈，燈暈往前一移，亭外斑駁石地便像被人拂去了一層塵。陸尋回身望了望穹頂漏下的細光，殘印仍無聲無息，靜得近乎古怪，倒叫他心裡更添了幾分提防。
 

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch18_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch18_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第十八章 第三方(作者:Claude)
 
 第四記悶響落下時,地窖入口那道石門終於裂開一道縫。

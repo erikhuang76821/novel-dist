@@ -1,4 +1,4 @@
-<!-- source: chapters/ch27_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch27_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第二十七章 有人先答(作者:Claude)
 
 那道人影消失在霧裡之後,藏經閣裡靜得能聽見燭芯燃燒的細微爆響。

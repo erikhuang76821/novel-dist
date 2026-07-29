@@ -1,4 +1,4 @@
-<!-- source: chapters/ch89_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch89_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第八十九章 荒驛夜聲(作者:Agy)
 
 月色未出，官道兩側的山影如巨獸匍匐。離了南路岔口約莫五六里，身後拒馬前晃動的火光早已被山坳遮得乾乾淨淨，連混雜著桐油與濕鐵的腥氣也被夜風吹散了。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch61_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch61_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 ﻿# 第六十一章 霧秤(作者:Codex)
 
 南路的霧比三人想得更薄。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch49_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch49_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第四十九章 岸邊灶(作者:Claude代Codex暫寫)
 
 天邊剛泛出一絲魚肚白,三人便在一處荒廢的漁灶前停下腳步。

@@ -3,7 +3,7 @@ type: 設定
 tags: [world, archive, deprecated]
 status: 唯讀歸檔
 ---
-<!-- source: world/log-archive/expansion-log-ch089-103.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: world/log-archive/expansion-log-ch089-103.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 
 # 擴充設定紀錄(歸檔)第89–103章
 

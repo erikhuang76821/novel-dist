@@ -1,4 +1,4 @@
-<!-- source: chapters/ch21_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch21_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第二十一章 松林那雙腳(作者:Claude)
 
 那人消失在霧裡之後,誰都沒有先開口。

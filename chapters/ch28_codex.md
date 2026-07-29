@@ -1,4 +1,4 @@
-<!-- source: chapters/ch28_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch28_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第二十八章 井底倒圖(作者:Codex)
 
 識文說完那句話後,藏經閣裡的燭火忽地矮了一寸。

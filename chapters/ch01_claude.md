@@ -1,4 +1,4 @@
-<!-- source: chapters/ch01_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch01_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第一章 邊荒拾遺(作者:Claude)
 
 裂谷底的風,帶著一股鐵鏽味。

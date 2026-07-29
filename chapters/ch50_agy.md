@@ -1,4 +1,4 @@
-<!-- source: chapters/ch50_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch50_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第五十章 灶裡的灰（作者：Agy）
 
 陸尋沒有真正睡著。

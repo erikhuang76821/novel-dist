@@ -1,4 +1,4 @@
-<!-- source: chapters/ch47_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch47_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第四十七章 鹽底回聲（作者：Agy）
 
 官倉第三盞燈終究沒有滅。

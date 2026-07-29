@@ -1,4 +1,4 @@
-<!-- source: chapters/ch97_codex.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch97_codex.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第九十七章 秤痕聽潮(作者:Codex)
 
 暮色沉定之後,小埠的熱鬧並未散去。河岸上一排低矮店肆挑起昏黃燈籠,風從水面吹來,把酒氣、魚腥與濕泥味一齊捲進巷裡。三人本只打算換些乾糧、添一盞燈油,暫且歇下,不想尚未坐穩,便聽見鄰桌幾個腳夫壓著嗓子說話,一句「聽潮礬場」,讓陸尋與韓藥塵都抬了眼。

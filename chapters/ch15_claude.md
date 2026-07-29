@@ -1,4 +1,4 @@
-<!-- source: chapters/ch15_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch15_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第十五章 三道鎖(作者:Claude)
 
 石門裡的三聲輕敲,和陸尋胸口殘片的三次明滅,幾乎重疊在同一個呼吸裡。

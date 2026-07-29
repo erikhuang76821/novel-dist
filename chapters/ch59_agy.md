@@ -1,4 +1,4 @@
-<!-- source: chapters/ch59_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch59_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 ﻿# 第五十九章 柳外輕秤(作者:Agy代Codex暫寫)
 
 三人走出柳林時,日色反而淡了。

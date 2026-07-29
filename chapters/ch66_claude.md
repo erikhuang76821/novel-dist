@@ -1,4 +1,4 @@
-<!-- source: chapters/ch66_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch66_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第六十六章 對岸燈(作者:Claude)
 
 那盞燈亮起時,霧色竟為之一頓,像被人按住了呼吸。

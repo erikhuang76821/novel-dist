@@ -1,4 +1,4 @@
-<!-- source: chapters/ch71_agy.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch71_agy.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 ﻿# 第七十一章 同足(作者:Codex代Agy暫寫)
 
 銅片裡的三道疊影，已把腳落在第一枚濕黑足印上。

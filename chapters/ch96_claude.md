@@ -1,4 +1,4 @@
-<!-- source: chapters/ch96_claude.md@6280465c834f · entry: _derived/manifest.json -->
+<!-- source: chapters/ch96_claude.md@f2b6883d30c7 · entry: _derived/manifest.json -->
 # 第九十六章 江上煙(作者:Claude)
 
 那道煙氣消散得極快,快得讓人幾乎要懷疑自己看錯了眼——它升起時無聲無息,連驚起的水鳥都沒有一隻。
