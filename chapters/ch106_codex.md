@@ -1,4 +1,4 @@
-<!-- source: chapters/ch106_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch106_codex.md@6280465c834f · entry: _derived/manifest.json -->
 # 第一百零六章 第七結(作者:Codex)
 
 離了回潮庵，往南的路便不再像路。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch02_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch02_codex.md@6280465c834f · entry: _derived/manifest.json -->
 # 第二章 暗河青燈(作者:Codex)
 
 陸尋鑽入石縫時,肩頭被岩牙撕開一道口子,熱血一冒,立刻被谷底的冷風吹得發麻。

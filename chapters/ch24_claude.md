@@ -1,4 +1,4 @@
-<!-- source: chapters/ch24_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch24_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第二十四章 兩座問影(作者:Claude)
 
 「不能開。」識文喃喃重複著這句話,手指無意識地摩挲著案上並不存在的絹本,像是想抓住什麼還能證明自己沒錯的東西,「我不是已經開了嗎?三天前,在地窖裡,我親手轉了那把鑰匙。」

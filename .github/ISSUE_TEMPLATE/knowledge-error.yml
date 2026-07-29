@@ -1,0 +1,32 @@
+name: 知識庫內容錯誤回報
+description: 回報事實錯誤、漂移或缺漏(讀者唯一寫入面)
+labels: [knowledge-error]
+body:
+  - type: input
+    id: release_id
+    attributes:
+      label: release_id
+      description: _derived/manifest.json 的 release_id
+    validations: { required: true }
+  - type: input
+    id: file_path
+    attributes:
+      label: file_path
+      description: dist 內的檔案路徑
+    validations: { required: true }
+  - type: textarea
+    id: quote
+    attributes:
+      label: quote
+      description: 有問題的原文片段(錨定用)
+    validations: { required: true }
+  - type: dropdown
+    id: severity
+    attributes:
+      label: severity
+      options: ["事實錯誤", "過期/漂移", "缺漏", "其他"]
+    validations: { required: true }
+  - type: textarea
+    id: description
+    attributes:
+      label: 說明

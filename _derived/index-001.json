@@ -108,413 +108,6 @@
 }
 },
 {
-"slug": "回潮庵老道姑",
-"name": "回潮庵老道姑",
-"aliases": [
-"老道姑"
-],
-"node_type": "人物",
-"path": "人物/回潮庵老道姑.md",
-"summary": "回潮庵守觀者，在庵中守了三十餘年，識文師妹輩。目睹先行者夜入石庫取走殘牒；為三人備粥療傷、提點落汐漁村「封家」線索。",
-"degree_by_family": {
-"entity_relation": 13,
-"chapter_appearance": 4
-}
-},
-{
-"slug": "孟老帳",
-"name": "孟老帳",
-"aliases": [
-"孟老帳",
-"孟老账"
-],
-"node_type": "人物",
-"path": "人物/孟老帳.md",
-"summary": "三河埠半篙堂守夜老船工,滿臉水皺、旱煙黑牙。「把話記在帳上」。認得韓藥塵三年前漕運舊債,受一「不肯報名的人」所託向她傳話、還「半條路」。",
-"degree_by_family": {
-"entity_relation": 7,
-"chapter_appearance": 7
-}
-},
-{
-"slug": "封家老人",
-"name": "封家老人",
-"aliases": [
-"封家老人",
-"灰髮老人"
-],
-"node_type": "人物",
-"path": "人物/封家老人.md",
-"summary": "落汐村封家守門的灰髮老人，以「第七結打死了沒有」試問來客，認得九轉石穴被拔走的青銅樞紐為「潮心」。",
-"degree_by_family": {
-"entity_relation": 6,
-"chapter_appearance": 4
-}
-},
-{
-"slug": "挑燈人",
-"name": "挑燈人",
-"aliases": [
-"挑燈人",
-"兩腳同重者",
-"蓑衣影子"
-],
-"node_type": "人物",
-"path": "人物/挑燈人.md",
-"summary": "自觀後裂道起跟蹤一行的身影,腳步「兩隻腳落地力道一樣重」,有別於一足赤足的松林身影。以細竹挑青鱗燈探路、乾淨布鞋無泥、肩似披蓑衣。不殺人,只留訊息;末於清鑑觀藏經閣送熄燈刻「有人替秦先答了」。",
-"degree_by_family": {
-"entity_relation": 35,
-"chapter_appearance": 16
-}
-},
-{
-"slug": "松林身影",
-"name": "松林身影",
-"aliases": [
-"松林身影",
-"灰麻赤足人",
-"一足草鞋者"
-],
-"node_type": "人物",
-"path": "人物/松林身影.md",
-"summary": "觀後裂道斷崖下松林中出現的身影:一身灰麻短衣、赤一足、另一足穿與石棚上刻「秦」字草鞋同款。陸尋殘片見之猛跳「像認出了什麼」。身分未明——像麻衣人,又疑與老秦有關。",
-"degree_by_family": {
-"entity_relation": 23,
-"chapter_appearance": 9
-}
-},
-{
-"slug": "清冷女密探",
-"name": "清冷女密探",
-"aliases": [
-"清冷女子",
-"清冷女密探",
-"辦差的"
-],
-"node_type": "人物",
-"path": "人物/清冷女密探.md",
-"summary": "三河埠追來的兩路人之一。聲音清冷利落,自道「這是我的差事,不是猜謎」,一眼看穿鹽聽機關的障眼法。守著某條「界」、只在暗處「標聲」。疑為朝廷「察」字衙門的辦差密探。",
-"degree_by_family": {
-"entity_relation": 22,
-"chapter_appearance": 12
-}
-},
-{
-"slug": "漕渠溺者",
-"name": "漕渠溺者",
-"aliases": [
-"漕渠溺者",
-"溺水男子",
-"溺水信使"
-],
-"node_type": "人物",
-"path": "人物/漕渠溺者.md",
-"summary": "漕渠淺水中發現的年輕男子,商旅打扮,胸口有帶寒氣的貫穿傷。懷揣刻眼形記號的木牌,臨終留下「**別信眼睛**」四字即亡。三人葬之於老柳下。",
-"degree_by_family": {
-"entity_relation": 10,
-"chapter_appearance": 5
-}
-},
-{
-"slug": "灰斗篷守印者",
-"name": "灰斗篷守印者",
-"aliases": [
-"灰斗篷",
-"守印者",
-"灰斗篷人"
-],
-"node_type": "人物",
-"path": "人物/灰斗篷守印者.md",
-"summary": "隱世守印者一系的執行者。冷酷、能力遠超常理,追殺接觸道紋殘片者;卻在關鍵時刻放走陸尋並指引其求助。姓名未透露。",
-"degree_by_family": {
-"entity_relation": 34,
-"chapter_appearance": 11
-}
-},
-{
-"slug": "無名瘋者",
-"name": "無名瘋者",
-"aliases": [
-"無名瘋者",
-"那個瘋掉的人"
-],
-"node_type": "人物",
-"path": "人物/無名瘋者.md",
-"summary": "韓藥塵三個月前赴裂谷欲救之人。因觸碰殘印而神智漸碎,臨終前留下六門之說與「見殘印應儘快藏起,而非被人取用」的囑咐。姓名未載。",
-"degree_by_family": {
-"entity_relation": 10,
-"chapter_appearance": 3
-}
-},
-{
-"slug": "缺耳鐵鷂子",
-"name": "缺耳鐵鷂子",
-"aliases": [
-"缺耳年輕人",
-"缺耳鐵鷂子"
-],
-"node_type": "人物",
-"path": "人物/缺耳鐵鷂子.md",
-"summary": "鐵鷂子年輕成員,左耳缺角、耳後刺鐵羽。認出陸尋身上發光之物,卻警告一行「清鑑觀那條路,三年前死過太多人」。姓名未定。",
-"degree_by_family": {
-"entity_relation": 6,
-"chapter_appearance": 3
-}
-},
-{
-"slug": "老秦",
-"name": "老秦",
-"aliases": [
-"老秦"
-],
-"node_type": "人物",
-"path": "人物/老秦.md",
-"summary": "表面是渡風口江邊漁舟老者、韓藥塵舊識;實則「**自稱秦、不問俗名**」的神秘人。曾在後山柴房灶下仿刻出**第二座問影**、與清鑑觀舊事及麻衣人時序交疊。身分是全書一大翻案。",
-"degree_by_family": {
-"entity_relation": 57,
-"chapter_appearance": 36
-}
-},
-{
-"slug": "蘇小雀",
-"name": "蘇小雀",
-"aliases": [
-"蘇小雀"
-],
-"node_type": "人物",
-"path": "人物/蘇小雀.md",
-"summary": "陸尋邊荒舊識,出現於其回憶中。聲音又輕又快「像邊荒草叢裡一掠而過的小鳥」。曾塞給陸尋一枚破銅錢,笑說:「別把會發亮的東西都當寶,有些是給人看路,有些是給人送命。」",
-"degree_by_family": {
-"entity_relation": 4,
-"chapter_appearance": 3
-}
-},
-{
-"slug": "觀印客",
-"name": "觀印客",
-"aliases": [
-"觀印客",
-"平靜之人",
-"看印的"
-],
-"node_type": "人物",
-"path": "人物/觀印客.md",
-"summary": "三河埠追來的兩路人之一。聲音異常平靜、近乎欣賞,自稱「想看看那枚印,到底還要滾出多遠才肯停下來」。不辦差、不搶,只「看印」;留下「有些門不是給人過的,是給聲音過的」之語。",
-"degree_by_family": {
-"entity_relation": 11,
-"chapter_appearance": 6
-}
-},
-{
-"slug": "識文",
-"name": "識文",
-"aliases": [
-"識文道人",
-"識文"
-],
-"node_type": "人物",
-"path": "人物/識文.md",
-"summary": "清鑑觀觀主,道號「識文」。精研太一紋樣、從未親身接觸殘印故未遭反噬。與韓藥塵之師為舊識。三年前為麻衣人拓活紋三夜、目睹慘案倖存至今。鬚髮花白卻眼神清亮異常。",
-"degree_by_family": {
-"entity_relation": 76,
-"chapter_appearance": 132
-}
-},
-{
-"slug": "陸尋",
-"name": "陸尋",
-"aliases": [
-"陸",
-"拾遺的"
-],
-"node_type": "人物",
-"path": "人物/陸尋.md",
-"summary": "邊荒拾遺人,主角。因觸碰太一殘片而被捲入「六印」與「回聲井」之謎,胸口嵌著一枚會自醒的殘印。",
-"degree_by_family": {
-"entity_relation": 102,
-"chapter_appearance": 150
-}
-},
-{
-"slug": "青衣玄鈴使",
-"name": "青衣玄鈴使",
-"aliases": [
-"青衣人",
-"青衣玄鈴使"
-],
-"node_type": "人物",
-"path": "人物/青衣玄鈴使.md",
-"summary": "玄鈴使中的關鍵人物,語氣溫和。額心影中似浮半枚朱色殘印,認得陸尋,稱其身上之印「終將歸位」。真實姓名與背後「主人」身分未明。",
-"degree_by_family": {
-"entity_relation": 16,
-"chapter_appearance": 9
-}
-},
-{
-"slug": "韓藥塵",
-"name": "韓藥塵",
-"aliases": [
-"韓娘子",
-"韓藥塵"
-],
-"node_type": "人物",
-"path": "人物/韓藥塵.md",
-"summary": "渡風口城西藥鋪東家,三十來歲。三個月前赴裂谷後性情大變、閉門謝客。知曉六印、六門內情,護送陸尋尋解,與封印一事早有牽連。",
-"degree_by_family": {
-"entity_relation": 85,
-"chapter_appearance": 151
-}
-},
-{
-"slug": "麻衣人",
-"name": "麻衣人",
-"aliases": [
-"麻衣人",
-"麻衣赤足人"
-],
-"node_type": "人物",
-"path": "人物/麻衣人.md",
-"summary": "三年前來到清鑑觀的神秘人:麻衣、赤足、背縛竹簡、肩頭是血。左肩到胸腹生有每炷香便換走勢的活紋,令識文拓錄三夜。抄畢說「別讓答案先看見問題」後瘋去,引發清鑑觀慘案,隨後失蹤,只在清鑑觀地窖門上留血掌印。",
-"degree_by_family": {
-"entity_relation": 42,
-"chapter_appearance": 14
-}
-},
-{
-"slug": "半篙堂",
-"name": "半篙堂",
-"aliases": [
-"半篙堂"
-],
-"node_type": "勢力",
-"path": "勢力/半篙堂.md",
-"summary": "三河埠一帶的漕幫勢力,以「船號為碑」。與韓藥塵有舊債(她三年前在漕運討生活時「借過半條命」)。人情不收銀子、只收「還法」;孟老帳為其守夜船工。",
-"degree_by_family": {
-"entity_relation": 10,
-"chapter_appearance": 5
-}
-},
-{
-"slug": "太一",
-"name": "太一",
-"aliases": [
-"太一文明",
-"太一",
-"太一遺族"
-],
-"node_type": "勢力",
-"path": "勢力/太一.md",
-"summary": "上古修行文明,修至「道」之盡頭近乎神格。晚期分裂為開道派與緘道派,激化為「絕道之戰」而自我毀滅,殘篇散落成今日道紋來源。",
-"degree_by_family": {
-"entity_relation": 26,
-"chapter_appearance": 2
-}
-},
-{
-"slug": "封家",
-"name": "封家",
-"aliases": [
-"落汐封家",
-"封家"
-],
-"node_type": "勢力",
-"path": "勢力/封家.md",
-"summary": "居於落汐村、世代替往來船隻修補漁具的家族，熟悉海岸門道；以「第七結留活」的補網法作入門問答，疑保存了第七留門的民間形態。",
-"degree_by_family": {
-"entity_relation": 29,
-"chapter_appearance": 6
-}
-},
-{
-"slug": "拾遺人",
-"name": "拾遺人",
-"aliases": [
-"拾遺人",
-"散修"
-],
-"node_type": "勢力",
-"path": "勢力/拾遺人.md",
-"summary": "遊走邊荒盜掘太一殘篇為生的散修,亦正亦邪,是最先接觸真相的一群人。主角陸尋即出身於此。",
-"degree_by_family": {
-"entity_relation": 8,
-"chapter_appearance": 2
-}
-},
-{
-"slug": "正道門派",
-"name": "正道門派",
-"aliases": [
-"正道門派",
-"名門正派"
-],
-"node_type": "勢力",
-"path": "勢力/正道門派.md",
-"summary": "繼承真氣武學的名門正派,禮法森嚴。對上古之事所知有限,視道紋為邪功異術。",
-"degree_by_family": {
-"entity_relation": 9,
-"chapter_appearance": 0
-}
-},
-{
-"slug": "熾朝官府",
-"name": "熾朝官府",
-"aliases": [
-"熾朝",
-"熾朝官府",
-"朝廷"
-],
-"node_type": "勢力",
-"path": "勢力/熾朝官府.md",
-"summary": "開國約三百年的積弱王朝。中央財政兵力積弱、邊鎮節度使擁兵自重,倚賴受封宗門維持地方治安。表面維穩,私下亦覬覦上古之力鞏固皇權。",
-"degree_by_family": {
-"entity_relation": 26,
-"chapter_appearance": 3
-}
-},
-{
-"slug": "玄鈴使",
-"name": "玄鈴使",
-"aliases": [
-"玄鈴使"
-],
-"node_type": "勢力",
-"path": "勢力/玄鈴使.md",
-"summary": "手持刻陌生紋路銅鈴、尋找六印的追兵集團。非官府、非江湖門派。以鈴聲牽動殘片、以青鱗燈水中追蹤,欲使殘印「歸位」。背後「主人」身分未明。",
-"degree_by_family": {
-"entity_relation": 41,
-"chapter_appearance": 7
-}
-},
-{
-"slug": "鐵鷂子",
-"name": "鐵鷂子",
-"aliases": [
-"鐵鷂子"
-],
-"node_type": "勢力",
-"path": "勢力/鐵鷂子.md",
-"summary": "綠林勢力,把守漕渠往清鑑觀近路的鐵鷂渡地頭,以黑旗鐵鷂為號。去年立新寨主,行事比從前更狠。",
-"degree_by_family": {
-"entity_relation": 11,
-"chapter_appearance": 4
-}
-},
-{
-"slug": "隱世守印者",
-"name": "隱世守印者",
-"aliases": [
-"守印者",
-"隱世守印者"
-],
-"node_type": "勢力",
-"path": "勢力/隱世守印者.md",
-"summary": "「絕道之戰」尾聲布下無極封、封印太一遺構核心的太一遺族(緘道派殘存者)之後裔或殘存意識。暗中監視封印、剷除欲解封者。既是拯救者,也帶「弒親」原罪。",
-"degree_by_family": {
-"entity_relation": 28,
-"chapter_appearance": 2
-}
-},
-{
 "slug": "三河埠",
 "name": "三河埠",
 "aliases": [
@@ -527,6 +120,24 @@
 "degree_by_family": {
 "entity_relation": 39,
 "chapter_appearance": 15
+}
+},
+{
+"slug": "三線印記",
+"name": "三線印記",
+"aliases": [
+"三線印記",
+"缺一筆",
+"缺中心一筆",
+"封鉛鐵桶",
+"恆溫印記"
+],
+"node_type": "設定",
+"path": "設定/三線印記.md",
+"summary": "反覆出現的印記:三道向內收攏的細線,原該圍著一個圓心,卻**獨缺中心那一筆**。見於聽潮礬場竹籌、鐵桶蓋、以及桶內一枚「恆溫金屬印」。陸尋由此悟:一路所見或都只是「某個更大整體的殘缺片段」,缺的那一筆才是真正答案。",
+"degree_by_family": {
+"entity_relation": 40,
+"chapter_appearance": 19
 }
 },
 {
@@ -576,6 +187,81 @@
 }
 },
 {
+"slug": "候燈者",
+"name": "候燈者",
+"aliases": [
+"候燈者",
+"候燈之責",
+"三燈之約"
+],
+"node_type": "設定",
+"path": "設定/候燈者.md",
+"summary": "封閉地底石城「南口」時留下的值守者與其章程。封城時「退者七十二,留燈者三」;三名候燈者分司望山、守渠、記事,以燈為號,「三燈皆滅,南口方可再啟」。是一套久遠前定下、只等某時機解封的規矩。",
+"degree_by_family": {
+"entity_relation": 9,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "六印",
+"name": "六印",
+"aliases": [
+"六印",
+"六枚殘印",
+"殘印"
+],
+"node_type": "設定",
+"path": "設定/六印.md",
+"summary": "對應回聲井井沿六個凹槽的六枚太一薄片／殘印,散落各地(井壁輿圖標六地)。實為六道「門」;六印全醒則回聲井開。陸尋胸口嵌著其中一枚。",
+"degree_by_family": {
+"entity_relation": 55,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "六印共振",
+"name": "六印共振",
+"aliases": [
+"六印共振"
+],
+"node_type": "設定",
+"path": "設定/六印共振.md",
+"summary": "當陸尋胸口殘片靠近太一遺構時,會引動刻紋發青光,且與遠處其他殘印同步明滅——暗示六印彼此感應、可互相定位。",
+"degree_by_family": {
+"entity_relation": 11,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "六門",
+"name": "六門",
+"aliases": [
+"六門",
+"六道門"
+],
+"node_type": "設定",
+"path": "設定/六門.md",
+"summary": "六印的真正性質。並非單純封印,而是六道「門」:門合則彼端之物沉睡,門開一分則彼端之物可借力量滲入人間。**絕不可六門同開。**由無名瘋者窮盡半生所悟、臨終傳予韓藥塵。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "半篙堂",
+"name": "半篙堂",
+"aliases": [
+"半篙堂"
+],
+"node_type": "勢力",
+"path": "勢力/半篙堂.md",
+"summary": "三河埠一帶的漕幫勢力,以「船號為碑」。與韓藥塵有舊債(她三年前在漕運討生活時「借過半條命」)。人情不收銀子、只收「還法」;孟老帳為其守夜船工。",
+"degree_by_family": {
+"entity_relation": 10,
+"chapter_appearance": 5
+}
+},
+{
 "slug": "南路霧局",
 "name": "南路霧局",
 "aliases": [
@@ -591,6 +277,34 @@
 "degree_by_family": {
 "entity_relation": 17,
 "chapter_appearance": 43
+}
+},
+{
+"slug": "古石柱",
+"name": "古石柱",
+"aliases": [
+"古石柱"
+],
+"node_type": "設定",
+"path": "設定/古石柱.md",
+"summary": "乾涸舊河道裂縫中半掩的石柱,柱身紋路比問影石更古老、更粗糲,「像年輪一樣是活出來的,不是刻的」。陸尋殘印本能排斥、不願靠近。不像太一遺構「等人答」,倒像「**不准人問**」。",
+"degree_by_family": {
+"entity_relation": 10,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "問影石",
+"name": "問影石",
+"aliases": [
+"問影石"
+],
+"node_type": "設定",
+"path": "設定/問影石.md",
+"summary": "清鑑觀地窖石階盡頭的巨石(高逾一人、寬近三丈),鑿平卻非鏡非碑、無一字。表面浮暗影,受陸尋殘片牽動現出**六道細縫(如六枚閉眼)**,對應六印／六門。中央黑痕會浮出未成形面孔、低語「少一印」,誘人「以身作答」。",
+"degree_by_family": {
+"entity_relation": 48,
+"chapter_appearance": 14
 }
 },
 {
@@ -619,6 +333,20 @@
 "summary": "回潮庵後山就岩鑿成的石室藏庫，四壁深石格堆疊歷代舊牒殘卷。近日被先行者潛入、有章法地翻檢，取走了一批異人所留的殘牒。",
 "degree_by_family": {
 "entity_relation": 15,
+"chapter_appearance": 4
+}
+},
+{
+"slug": "回潮庵老道姑",
+"name": "回潮庵老道姑",
+"aliases": [
+"老道姑"
+],
+"node_type": "人物",
+"path": "人物/回潮庵老道姑.md",
+"summary": "回潮庵守觀者，在庵中守了三十餘年，識文師妹輩。目睹先行者夜入石庫取走殘牒；為三人備粥療傷、提點落汐漁村「封家」線索。",
+"degree_by_family": {
+"entity_relation": 13,
 "chapter_appearance": 4
 }
 },
@@ -653,6 +381,100 @@
 }
 },
 {
+"slug": "太一",
+"name": "太一",
+"aliases": [
+"太一文明",
+"太一",
+"太一遺族"
+],
+"node_type": "勢力",
+"path": "勢力/太一.md",
+"summary": "上古修行文明,修至「道」之盡頭近乎神格。晚期分裂為開道派與緘道派,激化為「絕道之戰」而自我毀滅,殘篇散落成今日道紋來源。",
+"degree_by_family": {
+"entity_relation": 26,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "太一遺構",
+"name": "太一遺構",
+"aliases": [
+"太一遺構",
+"太一刻紋",
+"遺構",
+"殘片",
+"薄片"
+],
+"node_type": "設定",
+"path": "設定/太一遺構.md",
+"summary": "太一文明毀滅後留下的建築與器物殘存。刻滿線條精準、泛青光的「太一刻紋」,是道紋之源。既存於邊荒絕地,也藏於中原腹地小鎮地底。",
+"degree_by_family": {
+"entity_relation": 58,
+"chapter_appearance": 6
+}
+},
+{
+"slug": "孟老帳",
+"name": "孟老帳",
+"aliases": [
+"孟老帳",
+"孟老账"
+],
+"node_type": "人物",
+"path": "人物/孟老帳.md",
+"summary": "三河埠半篙堂守夜老船工,滿臉水皺、旱煙黑牙。「把話記在帳上」。認得韓藥塵三年前漕運舊債,受一「不肯報名的人」所託向她傳話、還「半條路」。",
+"degree_by_family": {
+"entity_relation": 7,
+"chapter_appearance": 7
+}
+},
+{
+"slug": "察字官牌",
+"name": "察字官牌",
+"aliases": [
+"察字官牌",
+"官牌"
+],
+"node_type": "設定",
+"path": "設定/察字官牌.md",
+"summary": "陸尋於清鑑觀主殿供桌下拾得的巴掌大銅牌:雲雷紋中藏一「察」字,背面原字被刻意磨去大半。官牌樣式卻非尋常巡檢腰牌——指向熾朝京城一支「不歸尋常衙門管、專辦見不得光差事」的隱秘勢力。",
+"degree_by_family": {
+"entity_relation": 16,
+"chapter_appearance": 5
+}
+},
+{
+"slug": "封家",
+"name": "封家",
+"aliases": [
+"落汐封家",
+"封家"
+],
+"node_type": "勢力",
+"path": "勢力/封家.md",
+"summary": "居於落汐村、世代替往來船隻修補漁具的家族，熟悉海岸門道；以「第七結留活」的補網法作入門問答，疑保存了第七留門的民間形態。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 6
+}
+},
+{
+"slug": "封家老人",
+"name": "封家老人",
+"aliases": [
+"封家老人",
+"灰髮老人"
+],
+"node_type": "人物",
+"path": "人物/封家老人.md",
+"summary": "落汐村封家守門的灰髮老人，以「第七結打死了沒有」試問來客，認得九轉石穴被拔走的青銅樞紐為「潮心」。",
+"degree_by_family": {
+"entity_relation": 6,
+"chapter_appearance": 4
+}
+},
+{
 "slug": "後山柴房",
 "name": "後山柴房",
 "aliases": [
@@ -683,6 +505,115 @@
 }
 },
 {
+"slug": "怪鳥徽記",
+"name": "怪鳥徽記",
+"aliases": [
+"怪鳥徽記",
+"銜環怪鳥",
+"先行者"
+],
+"node_type": "設定",
+"path": "設定/怪鳥徽記.md",
+"summary": "一隻雙翼張開、嘴銜圓環、羽翼帶殘缺鋸齒紋的怪鳥徽記——「先行者」（一批搶在陸尋三人之前循潮候線索行動的神秘勢力）的識別標記。韓藥塵判明此徽記既非聽潮礬場黑袍人標記，亦非江湖已知大派手筆。",
+"degree_by_family": {
+"entity_relation": 22,
+"chapter_appearance": 8
+}
+},
+{
+"slug": "拾遺人",
+"name": "拾遺人",
+"aliases": [
+"拾遺人",
+"散修"
+],
+"node_type": "勢力",
+"path": "勢力/拾遺人.md",
+"summary": "遊走邊荒盜掘太一殘篇為生的散修,亦正亦邪,是最先接觸真相的一群人。主角陸尋即出身於此。",
+"degree_by_family": {
+"entity_relation": 8,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "挑燈人",
+"name": "挑燈人",
+"aliases": [
+"挑燈人",
+"兩腳同重者",
+"蓑衣影子"
+],
+"node_type": "人物",
+"path": "人物/挑燈人.md",
+"summary": "自觀後裂道起跟蹤一行的身影,腳步「兩隻腳落地力道一樣重」,有別於一足赤足的松林身影。以細竹挑青鱗燈探路、乾淨布鞋無泥、肩似披蓑衣。不殺人,只留訊息;末於清鑑觀藏經閣送熄燈刻「有人替秦先答了」。",
+"degree_by_family": {
+"entity_relation": 35,
+"chapter_appearance": 16
+}
+},
+{
+"slug": "松林身影",
+"name": "松林身影",
+"aliases": [
+"松林身影",
+"灰麻赤足人",
+"一足草鞋者"
+],
+"node_type": "人物",
+"path": "人物/松林身影.md",
+"summary": "觀後裂道斷崖下松林中出現的身影:一身灰麻短衣、赤一足、另一足穿與石棚上刻「秦」字草鞋同款。陸尋殘片見之猛跳「像認出了什麼」。身分未明——像麻衣人,又疑與老秦有關。",
+"degree_by_family": {
+"entity_relation": 23,
+"chapter_appearance": 9
+}
+},
+{
+"slug": "正道門派",
+"name": "正道門派",
+"aliases": [
+"正道門派",
+"名門正派"
+],
+"node_type": "勢力",
+"path": "勢力/正道門派.md",
+"summary": "繼承真氣武學的名門正派,禮法森嚴。對上古之事所知有限,視道紋為邪功異術。",
+"degree_by_family": {
+"entity_relation": 9,
+"chapter_appearance": 0
+}
+},
+{
+"slug": "殘印自醒",
+"name": "殘印自醒",
+"aliases": [
+"殘印自醒",
+"自醒"
+],
+"node_type": "設定",
+"path": "設定/殘印自醒.md",
+"summary": "陸尋胸口殘片在無外力牽動下自行發光甦醒的現象。與韓藥塵疤痕紋路蠕動呼應,暗示殘印正由內而外甦醒。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 19
+}
+},
+{
+"slug": "殘牒",
+"name": "殘牒",
+"aliases": [
+"殘牒",
+"回潮庵殘牒",
+"異人殘牒"
+],
+"node_type": "設定",
+"path": "設定/殘牒.md",
+"summary": "原存於回潮庵石庫、幾十年前一位雲遊異人所留、囑「非有緣者不得妄動」的一批舊牒，約七八頁。上繪「三弧環一點、內側延伸細枝」的計數圖譜，疑為三線印記「完整」時的原貌、解殘印的鑰匙。第一百零二章被先行者搶先取走。",
+"degree_by_family": {
+"entity_relation": 29,
+"chapter_appearance": 7
+}
+},
+{
 "slug": "沉鐵閘",
 "name": "沉鐵閘",
 "aliases": [
@@ -694,6 +625,22 @@
 "degree_by_family": {
 "entity_relation": 12,
 "chapter_appearance": 3
+}
+},
+{
+"slug": "清冷女密探",
+"name": "清冷女密探",
+"aliases": [
+"清冷女子",
+"清冷女密探",
+"辦差的"
+],
+"node_type": "人物",
+"path": "人物/清冷女密探.md",
+"summary": "三河埠追來的兩路人之一。聲音清冷利落,自道「這是我的差事,不是猜謎」,一眼看穿鹽聽機關的障眼法。守著某條「界」、只在暗處「標聲」。疑為朝廷「察」字衙門的辦差密探。",
+"degree_by_family": {
+"entity_relation": 22,
+"chapter_appearance": 12
 }
 },
 {
@@ -803,17 +750,67 @@
 }
 },
 {
-"slug": "照影灘",
-"name": "照影灘",
+"slug": "漕渠溺者",
+"name": "漕渠溺者",
 "aliases": [
-"照影灘"
+"漕渠溺者",
+"溺水男子",
+"溺水信使"
 ],
-"node_type": "地點",
-"path": "地點/照影灘.md",
-"summary": "夾在海崖與暗礁間的黑礫石灘，潮退時灘面留下一窪窪如鏡水潭故名「照影」。此地是海岸地脈的氣穴所在，地下海蝕石窟直通回潮庵後山石庫石穴。先行者在此削斷海蝕石柱、以冷汞寒鐵補上三線紋的「中心那一筆」。",
+"node_type": "人物",
+"path": "人物/漕渠溺者.md",
+"summary": "漕渠淺水中發現的年輕男子,商旅打扮,胸口有帶寒氣的貫穿傷。懷揣刻眼形記號的木牌,臨終留下「**別信眼睛**」四字即亡。三人葬之於老柳下。",
 "degree_by_family": {
-"entity_relation": 17,
-"chapter_appearance": 3
+"entity_relation": 10,
+"chapter_appearance": 5
+}
+},
+{
+"slug": "潮候簡記",
+"name": "潮候簡記",
+"aliases": [
+"潮候簡記",
+"潮候記號",
+"枝開九轉"
+],
+"node_type": "設定",
+"path": "設定/潮候簡記.md",
+"summary": "沿海寺觀遇礁洞、伏井、暗渠時用以記潮的簡記符號系統：三弧環一點、弧內延伸細枝。留下殘牒者卻把回湧、滯退、暗翻都記入，像在記某種「只在特定潮候才露面的路」。識文於第一百零三章點破。",
+"degree_by_family": {
+"entity_relation": 28,
+"chapter_appearance": 7
+}
+},
+{
+"slug": "潮心",
+"name": "潮心",
+"aliases": [
+"潮心",
+"青銅潮心",
+"母樞"
+],
+"node_type": "設定",
+"path": "設定/潮心.md",
+"summary": "原嵌於九轉石穴中央圓盤的九葉青銅樞紐，被封家稱為「母樞」或「潮心」，為解開海岸潮脈與水門的核心關鍵器物。",
+"degree_by_family": {
+"entity_relation": 4,
+"chapter_appearance": 2
+}
+},
+{
+"slug": "灰斗篷守印者",
+"name": "灰斗篷守印者",
+"aliases": [
+"灰斗篷",
+"守印者",
+"灰斗篷人"
+],
+"node_type": "人物",
+"path": "人物/灰斗篷守印者.md",
+"summary": "隱世守印者一系的執行者。冷酷、能力遠超常理,追殺接觸道紋殘片者;卻在關鍵時刻放走陸尋並指引其求助。姓名未透露。",
+"degree_by_family": {
+"entity_relation": 34,
+"chapter_appearance": 11
 }
 }
 ]

@@ -1,7 +1,7 @@
 {
  "manifest_schema_version": 1,
- "release_id": "r-0e08593da16d",
- "source_commit": "0e08593da16de9021ed179543f15f5d49077e6dc",
+ "release_id": "r-6280465c834f",
+ "source_commit": "6280465c834f26285d90a25be4c2e41e89437c07",
  "built_with": {
   "tool": "build_dist.py",
   "config_schema": 1
@@ -13,33 +13,34 @@
   "timeline_through": 107,
   "graph_through": 107
  },
- "payload_root_sha256": "2992e71350fc5bd6afab5f04beaa3e77c41d2856649827b49bb2c2142705cd84",
+ "payload_root_sha256": "ab149fb5b6947b58ab991f1d736e5c1b7349aa31dd440725a7966d7628e0cc22",
  "artifacts": {
+  "index_sort": "codepoint(node_type, slug) — 分片邊界按 Unicode 碼位序,非筆畫/拼音;不確定落點時兩片都小,可全取再搜",
   "index_shards": [
    {
     "path": "_derived/index-001.json",
-    "sha256": "ef1a3d9a8dd54dc29c584211a9f4b03ceb30a197bf472369b234d0d8da4a82c2",
-    "bytes": 23606,
+    "sha256": "7ae5cd760197a1359ad56f0d8df4d3e4af753c0aca8ffacec9bac9f222e9247c",
+    "bytes": 23698,
     "first_slug": "00-核心不變式",
-    "last_slug": "照影灘"
+    "last_slug": "灰斗篷守印者"
    },
    {
     "path": "_derived/index-002.json",
-    "sha256": "8e44a24948326b7822c936407f7421bd25e4660b2d088a30875fff71fde9325a",
-    "bytes": 19179,
-    "first_slug": "白葦渡",
-    "last_slug": "鹽聽"
+    "sha256": "88d52713b71337e3e7cef294d3baaf3c7199d2b8f2425f16dc0ad951085a07eb",
+    "bytes": 19087,
+    "first_slug": "無名瘋者",
+    "last_slug": "黑齒暗河"
    }
   ],
   "chapters": {
    "path": "_derived/chapters.json",
-   "sha256": "ff741099cfd7c0d07cc5df12f45d95f577875cc8dec665e170641a4d1d9e2c01",
-   "bytes": 34842
+   "sha256": "2af098896cd0785a65cf8e4804f889a41d5a9bba74140d0cc9639de51b88e382",
+   "bytes": 30347
   },
   "threads": {
    "path": "_derived/threads.md",
-   "sha256": "cad8fa4dabff04d12ef4cc90e16059fe5a99c48396113452cb0fd235d4b1e2ed",
-   "bytes": 20182
+   "sha256": "3a1eb67231f09f5c28656c4e743ea6571baa5cc19435520cf9ee8c6fb7cb2fdc",
+   "bytes": 24593
   }
  },
  "qa": {

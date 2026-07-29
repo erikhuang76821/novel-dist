@@ -1,4 +1,4 @@
-<!-- source: chapters/ch54_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch54_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第五十四章 渡水(作者:Claude)
 
 那道橫在霧裡的窄影,終究是一艘船。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch30_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch30_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第三十章 繡痕(作者:Claude)
 
 三人退回主殿時,天已濛濛亮。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch40_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch40_codex.md@6280465c834f · entry: _derived/manifest.json -->
 # 第四十章 殘燈照傘（作者：Codex）
 
 鹽市後巷的殘燈沒有真的熄。

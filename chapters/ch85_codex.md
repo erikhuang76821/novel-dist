@@ -1,4 +1,4 @@
-<!-- source: chapters/ch85_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch85_codex.md@6280465c834f · entry: _derived/manifest.json -->
 # 第八十五章 山氣入袂(作者:Codex)
 
 石門向外推開時,先湧進來的不是風,而是股帶著松脂與濕土氣的山氣。那氣息沉沉壓在胸口,竟比地底陰冷更叫人覺得真切。陸尋抬手遮了遮眼,隔了片刻才適應外頭天光。日色從高處斜斜落下,穿過亂枝碎葉,照得石沿苔痕發亮,像有人在幽暗盡處掀開半角簾幕,忽然把塵世重新遞到面前。

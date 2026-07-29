@@ -1,4 +1,4 @@
-<!-- source: chapters/ch78_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch78_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第七十八章 三影未起(作者:Claude)
 
 那一揖落下時,三人幾乎同時屏住了呼吸。

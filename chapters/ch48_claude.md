@@ -1,4 +1,4 @@
-<!-- source: chapters/ch48_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch48_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第四十八章 江心耳(作者:Claude)
 
 那枚指甲蓋大小的鹽白耳形,靜靜地躺在水面下一尺深處,不隨水流搖晃,彷彿有什麼東西固執地將它按在原地。

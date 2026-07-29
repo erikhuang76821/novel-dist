@@ -1,4 +1,4 @@
-<!-- source: chapters/ch05_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch05_codex.md@6280465c834f · entry: _derived/manifest.json -->
 # 第五章 風鈴夜問(作者:Codex)
 
 韓藥塵問完那一句,藥鋪裡的油燈忽然跳了一下。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch107_agy.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch107_agy.md@6280465c834f · entry: _derived/manifest.json -->
 # 第一百零七章 潮心扣合(作者:Agy)
 
 門後的金屬扣合聲散去，只餘下海風撞擊檐下木浮子的空響。

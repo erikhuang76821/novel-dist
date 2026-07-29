@@ -1,4 +1,4 @@
-<!-- source: chapters/ch102_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch102_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第一百零二章 崖上藍光(作者:Claude)
 
 那兩下冷藍色的光,亮起又熄滅時,三人幾乎是同時停下了腳步。

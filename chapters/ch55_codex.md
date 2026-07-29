@@ -1,4 +1,4 @@
-<!-- source: chapters/ch55_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch55_codex.md@6280465c834f · entry: _derived/manifest.json -->
 ﻿# 第五十五章 眠燈鎮（作者：Codex）
 
 小船靠岸時，天還沒有亮透。

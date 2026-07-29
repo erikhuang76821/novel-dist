@@ -1,4 +1,4 @@
-<!-- source: chapters/ch76_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch76_codex.md@6280465c834f · entry: _derived/manifest.json -->
 ﻿# 第七十六章 微燈問路(作者:Codex)
 
 第四下敲聲落下，輕得像有人把指節收了回去，只留下半個未成的音。青白燈火重新亮定，池水冷平，石室裡再無任何倒影，連三人自身都被那片水面一併抹去。陸尋背靠韓藥塵與識文，胸口殘印卻未鬆開，反倒縮成一點極細寒意，近乎屏息，像在替遠處某種看不見的東西聽他們下一句話。

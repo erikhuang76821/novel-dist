@@ -1,4 +1,4 @@
-<!-- source: chapters/ch87_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch87_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第八十七章 枯木鈴(作者:Claude)
 
 離開柴門土棚沒多久,溝底的空氣便冷了下來。

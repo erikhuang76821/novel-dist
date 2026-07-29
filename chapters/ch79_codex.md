@@ -1,4 +1,4 @@
-<!-- source: chapters/ch79_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch79_codex.md@6280465c834f · entry: _derived/manifest.json -->
 ﻿# 第七十九章 照殿(作者:Codex)
 
 門後那句低語輕得像將斷未斷的一口氣，掠過殿檻時，連燈焰都不曾搖動。陸尋胸口殘印仍維持著方才那種說不清是好是壞的觸動，不縮不緊，也不曾散去，只懸在那裡，像一塊擱淺在灘上、進退不得的石頭。

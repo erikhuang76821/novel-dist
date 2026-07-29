@@ -1,4 +1,4 @@
-<!-- source: chapters/ch98_agy.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch98_agy.md@6280465c834f · entry: _derived/manifest.json -->
 # 第九十八章 聽潮夜秤(作者:Agy)
 
 夜色深沉，水霧沿著露出的石磴徐徐蔓延，將鞋底打得濕滑冷冽。

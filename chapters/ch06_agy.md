@@ -1,4 +1,4 @@
-<!-- source: chapters/ch06_agy.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch06_agy.md@6280465c834f · entry: _derived/manifest.json -->
 # 第六章 水底燈(作者:Agy)
 
 地道愈窄,泥壁沁出冰涼水珠,像無數隻細小的手指黏在陸尋臂上。他用肘撐地往前,膝蓋磨得生疼,身後韓藥塵的呼吸聲漸漸平穩下來,反倒顯得他自己太急。

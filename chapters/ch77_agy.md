@@ -1,4 +1,4 @@
-<!-- source: chapters/ch77_agy.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch77_agy.md@6280465c834f · entry: _derived/manifest.json -->
 # 第七十七章 懸門聽光(作者:Agy)
 
 從「窄刃路」夾狹的兩道刀背石壁間擠出時，冷風頓時像數十把鈍刀子迎面劃過。

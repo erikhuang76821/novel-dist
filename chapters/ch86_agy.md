@@ -1,4 +1,4 @@
-<!-- source: chapters/ch86_agy.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch86_agy.md@6280465c834f · entry: _derived/manifest.json -->
 # 第八十六章 柴門問路(作者:Agy)
 
 山風捎來一股微焦的柴木香氣，混著潮濕泥土與乾草的氣味，叫人在陰濕暗道裡壓抑許久的肺腑頓時寬舒開來。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch34_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch34_codex.md@6280465c834f · entry: _derived/manifest.json -->
 # 第三十四章 水眼無聲(作者:Codex)
 
 韓藥塵選的葬處,在渠岸一株半枯老柳下。

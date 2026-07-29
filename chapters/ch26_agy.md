@@ -1,4 +1,4 @@
-<!-- source: chapters/ch26_agy.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch26_agy.md@6280465c834f · entry: _derived/manifest.json -->
 # 第二十六章 地板三響(作者:Agy代Codex暫寫)
 
 藏經閣地板下那一聲回音,並不大,卻長。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch22_codex.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch22_codex.md@6280465c834f · entry: _derived/manifest.json -->
 # 第二十二章 柴房燈影(作者:Codex)
 
 霧裡那腳步聲不急不緩,像一粒石子被人拋在山道上,每一下都落得端正。

@@ -1,4 +1,4 @@
-<!-- source: chapters/ch65_agy.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch65_agy.md@6280465c834f · entry: _derived/manifest.json -->
 ﻿# 第六十五章 第四痕(作者:Codex代Agy暫寫)
 
 那一筆濕痕停在橋心足尖印旁，未長，未乾，卻像一隻看不見的眼，將三人都照住。

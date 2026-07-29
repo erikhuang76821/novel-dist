@@ -1,4 +1,4 @@
-<!-- source: chapters/ch33_claude.md@0e08593da16d · entry: _derived/manifest.json -->
+<!-- source: chapters/ch33_claude.md@6280465c834f · entry: _derived/manifest.json -->
 # 第三十三章 渠上火摺(作者:Claude)
 
 那點暗紅只亮了一瞬,便被水面重新合上的墨色吞了回去。
